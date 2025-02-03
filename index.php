@@ -8,5 +8,13 @@
 <body>
 
 <h4>Feb 3 Git Lab </h4>
+
+<p>Reasons to use Git
+
+<ol>
+    <li>Collaborate</li>
+    <li>Track Changes</li>
+</ol>
+</p>
 </body>
 </html>
